@@ -1,0 +1,6 @@
+print("HEllO First PYTHON PROBLEM:-")
+print()
+X=int(input("ENTER THE VALUE OF X:"))
+print(f"THE value of X is {X}")
+name=input("ENTER THE NAME :")
+print(f"THE GIVEN NAME IS {name}")
